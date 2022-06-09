@@ -15,6 +15,7 @@ function shuffleArray(array, cardamount) {
 }
 //FISHER-YATES SHUFFLE
 
+// TESTING
 
 //------------------------------------------------------------------------NEW GAME FUNCTION------------------------------------------------------------------------//
 function start(cardamount) {
